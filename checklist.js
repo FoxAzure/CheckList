@@ -12,7 +12,7 @@ const checklistsData = {
         { titulo: "Martelo de borracha", imagem: "galery/check1_010.jpeg" },
         { titulo: "Estilete", imagem: "galery/check1_011.jpeg" },
         { titulo: "Alicate desencapador de fios", imagem: "galery/check1_012.jpeg" },
-        { titulo: "Kit Gedore", imagem: "galery/check1_012.jpeg" },
+        { titulo: "Kit Gedore", imagem: "galery/check1_013.jpeg" },
     ],
     checklist2: [
         { titulo: "Item X", imagem: "imgX.jpg" },
